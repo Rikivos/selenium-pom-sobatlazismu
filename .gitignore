@@ -1,0 +1,15 @@
+# seleniumm python venv
+env/
+env
+/env
+
+.pytest_cache/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+reports/
+reports
