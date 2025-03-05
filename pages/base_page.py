@@ -1,6 +1,6 @@
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from utils.config import TIMEOUT  # Menggunakan timeout dari config
+from utils.config import TIMEOUT  
 
 class BasePage:
     def __init__(self, driver):
